@@ -1,11 +1,4 @@
 ﻿  Dictionary.cpp
-C:\Users\s218009\source\repos\Dictionary\Dictionary\Dictionary\Dictionary.h(6,1): error C2208: 'TKey': no members defined using this type
-C:\Users\s218009\source\repos\Dictionary\Dictionary\Dictionary\Dictionary.h(8): message : see reference to class template instantiation 'Item<TKey,TValue>' being compiled
-C:\Users\s218009\source\repos\Dictionary\Dictionary\Dictionary\Dictionary.h(7,1): error C2208: 'TValue': no members defined using this type
-C:\Users\s218009\source\repos\Dictionary\Dictionary\Dictionary\Dictionary.h(25,30): error C2065: 'Tkey': undeclared identifier
-C:\Users\s218009\source\repos\Dictionary\Dictionary\Dictionary\Dictionary.h(29): message : see reference to class template instantiation 'Dictionary<TKey,TValue>' being compiled
-C:\Users\s218009\source\repos\Dictionary\Dictionary\Dictionary\Dictionary.h(25,19): error C2923: 'Dictionary': 'Tkey' is not a valid template type argument for parameter 'TKey'
-C:\Users\s218009\source\repos\Dictionary\Dictionary\Dictionary\Dictionary.h(25,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\s218009\source\repos\Dictionary\Dictionary\Dictionary\Dictionary.h(25,4): error C3329: syntax error: expected 'identifier' not '}'
   Main.cpp
   Generating Code...
+  Dictionary.vcxproj -> C:\Users\s218009\source\repos\Dictionary\Dictionary\Debug\Dictionary.exe
